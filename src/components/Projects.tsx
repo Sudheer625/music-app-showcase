@@ -5,17 +5,6 @@ import { Badge } from "@/components/ui/badge";
 
 const projects = [
   {
-    title: "FireStorm LeetCode Tracker",
-    description: "A comprehensive LeetCode progress tracker helping developers monitor their coding journey, daily tasks, and problem-solving achievements.",
-    tech: ["React", "Tailwind CSS", "Framer Motion", "Supabase"],
-    liveLink: "https://firestormtracker.netlify.app/",
-    highlights: [
-      "Solved LeetCode tracking problems",
-      "Daily task management",
-      "Progress visualization"
-    ]
-  },
-  {
     title: "EduFun LMS",
     description: "A centralized learning management platform for motivation, accountability, and visualizing day-to-day progress with discipline tracking.",
     tech: ["React", "Lovable Cloud", "Node.js", "REST APIs"],
